@@ -11,7 +11,7 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Instagram][2.2]][2].
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2.2]: https://icons8.com/icon/TSZw5VixabhS/instagram-new--v2
+[2.2]: https://img.icons8.com/material-outlined/24/000000/instagram-new--v2.png
 
 <!-- Links to your social media accounts -->
 
