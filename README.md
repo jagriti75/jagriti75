@@ -7,7 +7,7 @@
 ### Technologies
 
 - Reactjs , Express , MongoDB , SQL , Bootstrap 
-- (Deploy)- Firebase , Git
+- (Deploy)- Firebase , Git ,Heroku
 - C++ , Javascript, Python , HTML & CSS
 
 
