@@ -1,8 +1,6 @@
 # Hi there, I'm Jagriti Thakur👋
 
->> Final year CSE student @IIIT KOTTAYAM 
-
->> Interested in Full stack web development 
+ 
 
 ### Technologies
 
