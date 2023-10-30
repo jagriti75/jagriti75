@@ -1,12 +1,12 @@
-# Hi there, I'm Jagriti Thakur👋
+#Latest 
 
  
 
 ### Technologies
 
-- Reactjs , Express , MongoDB , SQL , Bootstrap 
+- Reactjs , Express , MongoDB , SQL , Bootstrap ,Spring Boot
 - (Deploy)- Firebase , Git ,Heroku
-- C++ , Javascript, Python , HTML & CSS
+- Java , C++ , Javascript, Python , HTML & CSS
 
 
 
